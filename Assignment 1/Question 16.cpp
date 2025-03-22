@@ -1,3 +1,6 @@
+//Given 2 fractions, find the sum of those 2 fractions.Take the numerator and
+//denominator values of the fractions from the user.
+
 #include <iostream>
 #include <math.h>
 using namespace std;
