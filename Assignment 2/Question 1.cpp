@@ -1,3 +1,5 @@
+//Take 2 integers input and print the greatest of them.
+
 #include <iostream>
 using namespace std;
 
