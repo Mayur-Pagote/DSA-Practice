@@ -1,7 +1,9 @@
+// Write a program to find the euclidean distance between two coordinates.Take both
+// the coordinates from the user as input.
+
 #include <iostream>
 #include <math.h>
 using namespace std;
-
 
 int main() 
 {
