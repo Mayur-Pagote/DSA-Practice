@@ -1,3 +1,6 @@
+// Take two numbers as input and perform addition, subtraction, multiplication, and
+// division. Display the results.
+
 #include <iostream>
 using namespace std;
 
