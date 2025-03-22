@@ -1,3 +1,5 @@
+// Take a character as input and print its corresponding ASCII value.
+
 #include <iostream>
 using namespace std;
 
