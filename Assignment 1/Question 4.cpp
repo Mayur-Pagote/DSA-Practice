@@ -1,3 +1,5 @@
+//Take input of principle, time and rate and find the simple interest
+
 #include <iostream>
 using namespace std;
 
