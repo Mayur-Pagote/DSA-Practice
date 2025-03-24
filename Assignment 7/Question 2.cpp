@@ -12,7 +12,7 @@ void find_circle_area(float r){
 
 int main() 
 {
-    int radius;
+    float radius;
     cout<<"Enter radius: ";
     cin>>radius;
     cout<<endl;
